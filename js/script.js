@@ -1,4 +1,4 @@
-confirm ('vous etes pret');
+confirm ('bienvenu dans mon petit site');
 
 $(document).ready(function(){
     
